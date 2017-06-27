@@ -20,4 +20,4 @@ git push ##para cargar el archivo
 
 git origin master  muestra que el archivo esta actualizado
 
-
+git commit leon 
